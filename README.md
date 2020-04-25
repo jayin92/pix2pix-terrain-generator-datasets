@@ -1,4 +1,4 @@
-# scifair-datasets
+# pix2pix-terrain-generator-datasets
 科展的訓練資料
 
 
